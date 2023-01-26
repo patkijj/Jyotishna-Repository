@@ -1,8 +1,10 @@
 package oops;
 
 public class Maruti {
+	int price;
 public void price()
 {
-	System.out.println("Price of maruti is 5 lakhs");
+
+	System.out.println("Parent class method");
 }
 }

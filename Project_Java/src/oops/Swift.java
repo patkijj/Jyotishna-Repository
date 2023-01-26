@@ -8,6 +8,8 @@ public void modelType()
 public static void main(String[] args) {
 	Swift re = new Swift ();
 	re.price();
+	re.price=233;
+	System.out.println("price is "+re.price);
 	re.modelType();
 	System.out.println();
 }

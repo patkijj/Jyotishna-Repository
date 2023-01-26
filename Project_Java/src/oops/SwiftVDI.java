@@ -10,5 +10,7 @@ public static void main(String[] args) {
 	vdi.modelType();
 	vdi.mType();
     vdi.price();
+    vdi.price=122;
+    System.out.println("price is "+ vdi.price);
 }
 }
